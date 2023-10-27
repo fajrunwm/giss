@@ -7,7 +7,26 @@
 .RDataTmp
 
 # User-specific files
+.cpg
+.csv
+.dbf
+.feather
+.geofather
+.geojson
+.geoparquet
+.gpkg
+.gzip
+.gz
+.parquet
+.prj
 .Ruserdata
+.shp
+.shx
+.tif
+.xlsx
+.xls
+.xml
+.zip
 
 # Example code in package build process
 *-Ex.R
@@ -41,6 +60,7 @@ vignettes/*.pdf
 
 # pkgdown site
 docs/
+data/
 
 # translation temp files
 po/*~
